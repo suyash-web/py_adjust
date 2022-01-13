@@ -2,7 +2,6 @@ import shutil
 import os
 import sys
 from time import localtime
-import progressbar
 from PIL import Image
 
 cwd = os.getcwd()
