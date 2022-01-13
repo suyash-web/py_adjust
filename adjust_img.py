@@ -1,7 +1,6 @@
 import shutil
 import os
 import sys
-from time import localtime
 from PIL import Image
 
 cwd = os.getcwd()
